@@ -4,7 +4,7 @@
   "description": "Finance Library for Javascript",
   "main": "JSFinance.js",
   "scripts": {
-    "test": "test/test.js"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
